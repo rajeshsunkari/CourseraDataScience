@@ -1,2 +1,2 @@
 # CourseraDataScience
-This repository contains assignment from Coursera.
+This repository contains assignments from Coursera.
